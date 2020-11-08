@@ -289,7 +289,8 @@
     "2020-11-03",
     "2020-11-04",
     "2020-11-05",
-    "2020-11-06"
+    "2020-11-06",
+    "2020-11-07"
   ],
   "states": {
     "": {
@@ -4054,6 +4055,19 @@
         },
         {
           "date": "2020-11-06",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2020-11-07",
           "total": {
             "confirmed": 0,
             "deaths": 0,
@@ -7839,6 +7853,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2020-11-07",
+          "total": {
+            "confirmed": 4462,
+            "deaths": 53,
+            "recovered": 3156
+          },
+          "new": {
+            "confirmed": 3,
+            "deaths": 0,
+            "recovered": 3
+          }
         }
       ]
     },
@@ -11614,6 +11641,19 @@
             "deaths": 0,
             "recovered": 7
           }
+        },
+        {
+          "date": "2020-11-07",
+          "total": {
+            "confirmed": 20345,
+            "deaths": 819,
+            "recovered": 19522
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 4
+          }
         }
       ]
     },
@@ -15379,6 +15419,19 @@
         },
         {
           "date": "2020-11-06",
+          "total": {
+            "confirmed": 1177,
+            "deaths": 6,
+            "recovered": 1163
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2020-11-07",
           "total": {
             "confirmed": 1177,
             "deaths": 6,
@@ -19164,6 +19217,19 @@
             "deaths": 0,
             "recovered": 1
           }
+        },
+        {
+          "date": "2020-11-07",
+          "total": {
+            "confirmed": 515,
+            "deaths": 4,
+            "recovered": 492
+          },
+          "new": {
+            "confirmed": 3,
+            "deaths": 0,
+            "recovered": 2
+          }
         }
       ]
     },
@@ -22929,6 +22995,19 @@
         },
         {
           "date": "2020-11-06",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2020-11-07",
           "total": {
             "confirmed": 0,
             "deaths": 0,
@@ -26714,6 +26793,19 @@
             "deaths": 0,
             "recovered": 5
           }
+        },
+        {
+          "date": "2020-11-07",
+          "total": {
+            "confirmed": 776,
+            "deaths": 9,
+            "recovered": 757
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 2
+          }
         }
       ]
     },
@@ -30479,6 +30571,19 @@
         },
         {
           "date": "2020-11-06",
+          "total": {
+            "confirmed": 230,
+            "deaths": 13,
+            "recovered": 217
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2020-11-07",
           "total": {
             "confirmed": 230,
             "deaths": 13,
@@ -34264,6 +34369,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2020-11-07",
+          "total": {
+            "confirmed": 39,
+            "deaths": 0,
+            "recovered": 33
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -38029,6 +38147,19 @@
         },
         {
           "date": "2020-11-06",
+          "total": {
+            "confirmed": 114,
+            "deaths": 3,
+            "recovered": 111
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2020-11-07",
           "total": {
             "confirmed": 114,
             "deaths": 3,
@@ -41814,6 +41945,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2020-11-07",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -45579,6 +45723,19 @@
         },
         {
           "date": "2020-11-06",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2020-11-07",
           "total": {
             "confirmed": 0,
             "deaths": 0,
