@@ -381,7 +381,8 @@
     "2021-02-03",
     "2021-02-04",
     "2021-02-05",
-    "2021-02-06"
+    "2021-02-06",
+    "2021-02-07"
   ],
   "states": {
     "": {
@@ -5342,6 +5343,19 @@
         },
         {
           "date": "2021-02-06",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2021-02-07",
           "total": {
             "confirmed": 0,
             "deaths": 0,
@@ -10323,6 +10337,19 @@
             "deaths": 0,
             "recovered": 1
           }
+        },
+        {
+          "date": "2021-02-07",
+          "total": {
+            "confirmed": 5123,
+            "deaths": 54,
+            "recovered": 3259
+          },
+          "new": {
+            "confirmed": 3,
+            "deaths": 0,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -15293,6 +15320,19 @@
             "confirmed": 0,
             "deaths": 0,
             "recovered": 1
+          }
+        },
+        {
+          "date": "2021-02-07",
+          "total": {
+            "confirmed": 20456,
+            "deaths": 820,
+            "recovered": 19615
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
           }
         }
       ]
@@ -20265,6 +20305,19 @@
             "deaths": 0,
             "recovered": 1
           }
+        },
+        {
+          "date": "2021-02-07",
+          "total": {
+            "confirmed": 1314,
+            "deaths": 6,
+            "recovered": 1297
+          },
+          "new": {
+            "confirmed": 2,
+            "deaths": 0,
+            "recovered": 2
+          }
         }
       ]
     },
@@ -25236,6 +25289,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2021-02-07",
+          "total": {
+            "confirmed": 603,
+            "deaths": 4,
+            "recovered": 596
+          },
+          "new": {
+            "confirmed": 1,
+            "deaths": 0,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -30197,6 +30263,19 @@
         },
         {
           "date": "2021-02-06",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2021-02-07",
           "total": {
             "confirmed": 0,
             "deaths": 0,
@@ -35178,6 +35257,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2021-02-07",
+          "total": {
+            "confirmed": 907,
+            "deaths": 9,
+            "recovered": 888
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 1
+          }
         }
       ]
     },
@@ -40139,6 +40231,19 @@
         },
         {
           "date": "2021-02-06",
+          "total": {
+            "confirmed": 234,
+            "deaths": 13,
+            "recovered": 221
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2021-02-07",
           "total": {
             "confirmed": 234,
             "deaths": 13,
@@ -45120,6 +45225,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2021-02-07",
+          "total": {
+            "confirmed": 102,
+            "deaths": 0,
+            "recovered": 98
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -50081,6 +50199,19 @@
         },
         {
           "date": "2021-02-06",
+          "total": {
+            "confirmed": 118,
+            "deaths": 3,
+            "recovered": 115
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2021-02-07",
           "total": {
             "confirmed": 118,
             "deaths": 3,
@@ -55062,6 +55193,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2021-02-07",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -60023,6 +60167,19 @@
         },
         {
           "date": "2021-02-06",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2021-02-07",
           "total": {
             "confirmed": 0,
             "deaths": 0,
