@@ -75103,12 +75103,12 @@
         {
           "date": "2021-08-16",
           "total": {
-            "confirmed": 152,
+            "confirmed": 169,
             "deaths": 3,
             "recovered": 0
           },
           "new": {
-            "confirmed": 0,
+            "confirmed": 17,
             "deaths": 0,
             "recovered": 0
           }
