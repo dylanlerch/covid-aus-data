@@ -19213,13 +19213,13 @@
         {
           "date": "2021-12-30",
           "total": {
-            "confirmed": 166373,
-            "deaths": 657,
+            "confirmed": 187504,
+            "deaths": 663,
             "recovered": 0
           },
           "new": {
-            "confirmed": 0,
-            "deaths": 0,
+            "confirmed": 21131,
+            "deaths": 6,
             "recovered": 0
           }
         },
@@ -19231,8 +19231,8 @@
             "recovered": 0
           },
           "new": {
-            "confirmed": 21131,
-            "deaths": 6,
+            "confirmed": 0,
+            "deaths": 0,
             "recovered": 0
           }
         },
@@ -37787,12 +37787,12 @@
         {
           "date": "2021-12-30",
           "total": {
-            "confirmed": 10752,
+            "confirmed": 13863,
             "deaths": 7,
             "recovered": 0
           },
           "new": {
-            "confirmed": 0,
+            "confirmed": 3111,
             "deaths": 0,
             "recovered": 0
           }
@@ -37805,7 +37805,7 @@
             "recovered": 0
           },
           "new": {
-            "confirmed": 3111,
+            "confirmed": 0,
             "deaths": 0,
             "recovered": 0
           }
@@ -47074,12 +47074,12 @@
         {
           "date": "2021-12-30",
           "total": {
-            "confirmed": 8993,
+            "confirmed": 11078,
             "deaths": 6,
             "recovered": 0
           },
           "new": {
-            "confirmed": 1368,
+            "confirmed": 3453,
             "deaths": 1,
             "recovered": 0
           }
@@ -47092,7 +47092,7 @@
             "recovered": 0
           },
           "new": {
-            "confirmed": 2085,
+            "confirmed": 0,
             "deaths": 0,
             "recovered": 0
           }
@@ -74935,12 +74935,12 @@
         {
           "date": "2021-12-30",
           "total": {
-            "confirmed": 637,
+            "confirmed": 785,
             "deaths": 13,
             "recovered": 0
           },
           "new": {
-            "confirmed": 0,
+            "confirmed": 148,
             "deaths": 0,
             "recovered": 0
           }
@@ -74953,7 +74953,7 @@
             "recovered": 0
           },
           "new": {
-            "confirmed": 148,
+            "confirmed": 0,
             "deaths": 0,
             "recovered": 0
           }
@@ -84222,12 +84222,12 @@
         {
           "date": "2021-12-30",
           "total": {
-            "confirmed": 510,
+            "confirmed": 572,
             "deaths": 1,
             "recovered": 0
           },
           "new": {
-            "confirmed": 14,
+            "confirmed": 76,
             "deaths": 0,
             "recovered": 0
           }
@@ -84240,7 +84240,7 @@
             "recovered": 0
           },
           "new": {
-            "confirmed": 62,
+            "confirmed": 0,
             "deaths": 0,
             "recovered": 0
           }
