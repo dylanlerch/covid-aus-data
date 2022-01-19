@@ -38541,13 +38541,13 @@
         {
           "date": "2022-01-17",
           "total": {
-            "confirmed": 214577,
-            "deaths": 29,
+            "confirmed": 245633,
+            "deaths": 52,
             "recovered": 0
           },
           "new": {
-            "confirmed": 0,
-            "deaths": 0,
+            "confirmed": 31056,
+            "deaths": 23,
             "recovered": 0
           }
         }
