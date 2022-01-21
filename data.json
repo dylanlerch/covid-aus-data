@@ -19436,13 +19436,13 @@
         {
           "date": "2021-12-31",
           "total": {
-            "confirmed": 187504,
-            "deaths": 663,
+            "confirmed": 210051,
+            "deaths": 668,
             "recovered": 0
           },
           "new": {
-            "confirmed": 0,
-            "deaths": 0,
+            "confirmed": 22547,
+            "deaths": 5,
             "recovered": 0
           }
         },
@@ -19454,8 +19454,8 @@
             "recovered": 0
           },
           "new": {
-            "confirmed": 40803,
-            "deaths": 6,
+            "confirmed": 18256,
+            "deaths": 1,
             "recovered": 0
           }
         },
