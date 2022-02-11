@@ -749,7 +749,8 @@
     "2022-02-06",
     "2022-02-07",
     "2022-02-08",
-    "2022-02-09"
+    "2022-02-09",
+    "2022-02-10"
   ],
   "states": {
     "": {
@@ -10494,6 +10495,19 @@
         },
         {
           "date": "2022-02-09",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2022-02-10",
           "total": {
             "confirmed": 0,
             "deaths": 0,
@@ -20259,6 +20273,19 @@
             "deaths": 24,
             "recovered": 0
           }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 1183196,
+            "deaths": 1659,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 8720,
+            "deaths": 19,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -30012,6 +30039,19 @@
           "new": {
             "confirmed": 9391,
             "deaths": 16,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 961809,
+            "deaths": 2248,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 8521,
+            "deaths": 13,
             "recovered": 0
           }
         }
@@ -39769,6 +39809,19 @@
             "deaths": 8,
             "recovered": 0
           }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 484186,
+            "deaths": 354,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 8669,
+            "deaths": 14,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -49524,6 +49577,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 121532,
+            "deaths": 148,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 3084,
+            "deaths": 9,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -59269,6 +59335,19 @@
         },
         {
           "date": "2022-02-09",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2022-02-10",
           "total": {
             "confirmed": 0,
             "deaths": 0,
@@ -69034,6 +69113,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 2043,
+            "deaths": 9,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 138,
+            "deaths": 0,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -78787,6 +78879,19 @@
           "new": {
             "confirmed": 637,
             "deaths": 1,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 34052,
+            "deaths": 23,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 538,
+            "deaths": 0,
             "recovered": 0
           }
         }
@@ -88544,6 +88649,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 26767,
+            "deaths": 7,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 1155,
+            "deaths": 2,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -98296,6 +98414,19 @@
           },
           "new": {
             "confirmed": 500,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 40538,
+            "deaths": 31,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 425,
             "deaths": 0,
             "recovered": 0
           }
@@ -108054,6 +108185,19 @@
             "deaths": 0,
             "recovered": 0
           }
+        },
+        {
+          "date": "2022-02-10",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
         }
       ]
     },
@@ -117799,6 +117943,19 @@
         },
         {
           "date": "2022-02-09",
+          "total": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          },
+          "new": {
+            "confirmed": 0,
+            "deaths": 0,
+            "recovered": 0
+          }
+        },
+        {
+          "date": "2022-02-10",
           "total": {
             "confirmed": 0,
             "deaths": 0,
