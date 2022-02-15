@@ -20358,13 +20358,13 @@
         {
           "date": "2022-02-13",
           "total": {
-            "confirmed": 1203956,
-            "deaths": 1727,
+            "confirmed": 1197772,
+            "deaths": 1713,
             "recovered": 0
           },
           "new": {
-            "confirmed": 5987,
-            "deaths": 14,
+            "confirmed": -197,
+            "deaths": 0,
             "recovered": 0
           }
         }
